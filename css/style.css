@@ -38,7 +38,8 @@ h1, h3 {
 }
 
 .texto h2, span, .topo a {
-    color: #c4a47c;
+    color: white;
+    /*color: #c4a47c;*/
 }
 
 .texto {
